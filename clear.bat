@@ -1,0 +1,2 @@
+rmdir bin
+rmdir build
